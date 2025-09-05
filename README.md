@@ -9,7 +9,7 @@
 ## 🔧 Tech Stack
 - **Languages & Frameworks:** Flutter, Dart  
 - **State Management:** BLoC, Cubit  
-- **Databases & Backend:** Firebase, Hive  
+- **Databases & Backend:** Firebase, Hive, sqflite  
 - **Tools:** Git, GitHub, Clean Code Architecture  
 
 ---
@@ -21,7 +21,7 @@ Habit tracker + task manager app
 - Built with **BLoC** and **Hive**  
 - Focused on clean code & high performance  
 
-### 🎓 [Study Buddy](https://github.com/ahmadhomsy/study-buddy) *(add this repo if not public yet)*
+### 🎓 Study Buddy  
 Group study organizer powered by **Firebase**  
 - Real-time group features  
 - Clean architecture & scalable structure  
@@ -39,9 +39,9 @@ Weather forecast application
 
 ---
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/ahmad-alhomsy)  
-- 📧 Email: **your-email@example.com**  
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ahmad-alhomsy963)  
+- 📧 Email: **2004ahmadhomsy@gmail.com**  
 
 ---
 ✨ *Always learning, always building.*
