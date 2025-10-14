@@ -41,7 +41,7 @@ Weather forecast application
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ahmad-alhomsy963)  
-- 📧 Email: **2004ahmadhomsy@gmail.com**  
+- 📧 Email: **ahmadhoahmadho@gmail.com**  
 
 ---
 ✨ *Always learning, always building.*
